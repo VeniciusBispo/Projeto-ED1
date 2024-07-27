@@ -1,0 +1,13 @@
+Tamanho,100000,:,Execuções
+Ordem,Crescente
+InsertionSort:,0,ms
+BubbleSort:,0,ms
+SelectionSort:,1201,ms
+Ordem,Decrescente
+InsertionSort:,3134,ms
+BubbleSort:,9469,ms
+SelectionSort:,2990,ms
+Ordem,Nenhum
+InsertionSort:,1239,ms
+BubbleSort:,14881,ms
+SelectionSort:,2529,ms
